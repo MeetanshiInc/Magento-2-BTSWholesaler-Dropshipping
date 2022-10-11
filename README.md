@@ -1,4 +1,4 @@
-#Magento 2 BTSWholesaler Dropshipping
+## Magento 2 BTSWholesaler Dropshipping
 
 BTSWholesaler is one of the largest perfumes and cosmetics distributors in Europe. It offers more than 600 brands and has around 17000 references in stock. Most of the products have EAN (European Article Number) codes.
 
